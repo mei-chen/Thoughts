@@ -1,0 +1,92 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "workspaceLayout": {
+    "id": "2c423c46b18ee4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7740e7caffd16954",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Natural Language.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "0717636382f2f6b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cd24221080077cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5071fa3656639194",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b595dd7e57f3947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "900c9a0aca210c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5fbcf29ce783ca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa6f68c0bdcdbcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Natural Language.md",
+    "Vocabs.md",
+    "Untitled.md",
+    "Pasted image.png"
+  ],
+  "promptDelete": false
+}
